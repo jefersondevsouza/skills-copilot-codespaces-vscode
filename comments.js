@@ -1,4 +1,4 @@
-// create web site comments
+// create web server
 // /api/comments
 router.post("/", async (req, res) => {
     try {
